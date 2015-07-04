@@ -29,7 +29,8 @@ The following step will get you started with the Data Science Tools.
 
    - You never want to lose all your code if something happens to your laptop
    - Github is also good for pulling down other people's code and view it on your machine. For example to
-     pull this repo to your machine, you will execute `git clone https://github.com/jyt109/Getting_Started_In_DS.git`
+     pull this repo to your machine, you will execute in the terminal
+     `git clone https://github.com/jyt109/Getting_Started_In_DS.git`
    - To install Git, see [https://git-scm.com/download/win](https://git-scm.com/download/win)
    - Try creating your own repo and start pushing code to github (Optional)
 
